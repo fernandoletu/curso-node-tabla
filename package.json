@@ -1,0 +1,16 @@
+{
+  "name": "node_ej_sec4_ej1",
+  "version": "1.0.0",
+  "description": "Ejercicios seccion 4 del curso",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "base3": "node 3_importar_archivos_args --base=3"
+  },
+  "keywords": [],
+  "author": "Fernando Leturia",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.7.1"
+  }
+}
